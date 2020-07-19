@@ -1,2 +1,5 @@
 PRODUCT_PACKAGES += \
-    Via
+    Via \
+#    iflyIME \
+    googlepinyin \
+    
