@@ -16,7 +16,7 @@ LOCAL_PATH := $(call my-dir)
 
 include $(CLEAR_VARS)
 
-LOCAL_MODULE := googlepinyin
+LOCAL_MODULE := com.google.android.inputmethod.pinyin
 
 LOCAL_MODULE_TAGS := optional
 
